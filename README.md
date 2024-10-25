@@ -32,6 +32,3 @@ Watch our [Telemedicine in Rural Areas Presentation Video](https://drive.google.
 ## License
 This project is currently under development. License details will be provided upon public release.
 
---- 
-
-Let me know if you'd like any additional sections or specific modifications.
