@@ -1,6 +1,4 @@
-Based on the provided document, here’s a README content for your **Telemedicine in Rural Areas** project:
 
----
 
 # Telemedicine in Rural Areas
 ## Problem Statement
